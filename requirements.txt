@@ -1,0 +1,4 @@
+pyyaml
+graphiteudp
+requests
+argparse
